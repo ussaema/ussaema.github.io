@@ -77,6 +77,7 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 ## News
 <div id="news-container" style="overflow-y: auto; padding-right: 10px;">
   <ul id="news-list">
+    <li><em>2025.09</em>: <a href="https://jchao-xie.github.io/CoProU/" target="_blank">CoProU-VO</a> received <b>best paper award</b> at <b>GCPR 2025</b>.</li>
     <li><em>2025.09</em>: <a href="https://deepscenario.github.io/OrthoLoC/" target="_blank">OrthoLoC</a> accepted as an <b>oral presentation</b> at <b>NeurIPS 2025</b>.</li>
     <li><em>2025.07</em>: <a href="https://jchao-xie.github.io/CoProU/" target="_blank">CoProU-VO</a> accepted as an <b>oral presentation</b> at <b>GCPR 2025</b>.</li>
     <li><em>2025.06</em>: <a href="https://tum-luk.github.io/projects/trafficloc/" target="_blank">TrafficLoc</a> accepted at <b>ICCV 2025</b>.</li>
