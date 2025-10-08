@@ -18,10 +18,10 @@
     <a href="https://jacqueskaiser.com/" target="_blank">Jacques Kaiser</a>,
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     <br>
-    <em><strong>NeurIPS</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(oral)</span>
+    <em><strong>NeurIPS</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral)</span>
     <br>
     <a href="https://deepscenario.github.io/OrthoLoC/" target="_blank">Project Page</a> | 
-    Paper (coming soon) |
+    <a href="https://arxiv.org/pdf/2509.18350" target="_blank">Paper</a> |
     <a href="https://cvg.cit.tum.de/webshare/g/papers/Dhaouadi/OrthoLoC/" target="_blank">Data</a> |
     <a href="https://github.com/deepscenario/OrthoLoC/" target="_blank">Github Repo</a>
 
@@ -49,7 +49,7 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
     <a href="https://jacqueskaiser.com/" target="_blank">Jacques Kaiser</a>,
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     <br>
-    <em><strong>IV</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(oral)</span>
+    <em><strong>IV</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral - Best Paper Award)</span>
     <br>
     <a href="https://jchao-xie.github.io/CoProU/" target="_blank">Project Page</a> | 
     <a href="https://arxiv.org/pdf/2508.00568" target="_blank">Paper</a> |
@@ -146,7 +146,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
     <a href="https://jacqueskaiser.com/" target="_blank">Jacques Kaiser</a>,
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     <br>
-    <em><strong>ICRA</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(oral)</span>
+    <em><strong>ICRA</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral)</span>
     <br>
     <a href="https://arxiv.org/pdf/2503.13743" target="_blank">Paper</a>
     <br>
@@ -204,7 +204,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
     <a href="https://arnike.github.io/" target="_blank">Nikita Araslanov</a>, 
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     <br>
-    <em><strong>GCPR</strong> 2024</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(oral)</span>
+    <em><strong>GCPR</strong> 2024</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral)</span>
     <br>
      <a href="https://deepscenario.github.io/CDrone/" target="_blank">Project Page</a> | 
      <a href="https://github.com/deepscenario/EvalMono3D" target="_blank">Github Repo</a> | 
