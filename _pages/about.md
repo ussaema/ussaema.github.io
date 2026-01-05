@@ -23,7 +23,7 @@ redirect_from:
 </head>
 ---
 
-Hi, I'm Oussema Dhaouadi, a PhD student at the <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> in the Computer Vision Group led by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>. During my PhD, I worked in collaboration with <a href="https://deepscenario.com" target="_blank">DeepScenario</a> on 3D reconstruction and localization.
+Hi, I'm Oussema Dhaouadi, a PhD student at the <a href="https://www.tum.de/" target="_blank">Technical University of Munich</a> in the Computer Vision Group led by <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Prof. Daniel Cremers</a>. I am currently a visiting researcher at <a href="https://cvg.ethz.ch" target="_blank">ETH Zürich</a> in the Computer Vision and Geometry Group led by <a href="https://people.inf.ethz.ch/pomarc/" target="_blank">Prof. Marc Pollefeys</a>. During my PhD, I worked in collaboration with <a href="https://deepscenario.com" target="_blank">DeepScenario</a> on 3D reconstruction and localization.
 
 Before starting my PhD, I was a Machine Learning Engineer at <a href="https://knowlix.ai/" target="_blank">Knowlix GmbH</a>, where I built automated solutions for paperwork. I received my Master's degree with high distinction in Electrical Engineering and Information Technology from TUM. I completed my thesis at the <a href="https://www.bmwgroup.com/" target="_blank">BMW Group Research and Technology Center</a> under the supervision of <a href="https://av.dfki.de/members/firintepe/" target="_blank">Dr. Ahmet Firintepe</a> and  <a href="https://www.ce.cit.tum.de/lmt/team/mitarbeiter/steinbach-eckehard/" target="_blank">Prof. Eckehard Steinbach</a> and spent a semester abroad at <a href="https://www.ntu.edu.sg/" target="_blank">NTU Singapore</a>. I also hold a Bachelor's degree in Electrical Engineering and Information Technology from TUM, where I completed my Bachelor's thesis under the supervision of <a href="https://www.linkedin.com/in/alexander-kuhn-4a680714b/" target="_blank">Alexander Kuhn</a> and <a href="https://www.ce.cit.tum.de/en/air/people/prof-dr-ing-habil-alois-knoll/" target="_blank">Prof. Alois Knoll</a>. During my studies, I gained additional experience at <a href="https://global.fujitsu/" target="_blank">Fujitsu</a> and <a href="https://www.rohde-schwarz.com/" target="_blank">Rohde & Schwarz</a>.
 
@@ -33,6 +33,9 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
     <img src="./images/logos/tum.png" >
 </a>
 
+<a href="https://cvg.ethz.ch" target="_blank" style="text-decoration: none;">
+    <img src="./images/logos/eth.png" >
+</a>
 
 <a href="https://deepscenario.com/" target="_blank" style="text-decoration: none;">
     <img src="./images/logos/deepscenario.png" >
@@ -77,6 +80,7 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 ## News
 <div id="news-container" style="overflow-y: auto; padding-right: 10px;">
   <ul id="news-list">
+    <li><em>2026.01</em>: Started a research visit at <a href="https://cvg.ethz.ch" target="_blank">ETH Zürich</a> in the <a href="https://cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> led by <a href="https://people.inf.ethz.ch/pomarc/" target="_blank">Prof. Marc Pollefeys</a>.</li>
     <li><em>2025.11</em>: completed my role as a computer vision scientist at <a href="https://deepscenario.com/" target="_blank">DeepScenario</a>.</li>
     <li><em>2025.11</em>: <a href="https://deepscenario.github.io/GrounDiff/" target="_blank">GrounDiff</a> accepted at <b>WACV 2026</b>.</li>
     <li><em>2025.09</em>: <a href="https://jchao-xie.github.io/CoProU/" target="_blank">CoProU-VO</a> received <b>best paper award</b> at <b>GCPR 2025</b>.</li>

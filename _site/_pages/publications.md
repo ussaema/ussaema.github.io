@@ -1,3 +1,29 @@
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <td width="40%">
+    <div class="one">
+    <img src="/images/publications/groundiff.png" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      <a href="https://deepscenario.github.io/GrounDiff/" target="_blank">GrounDiff: Diffusion-Based Ground Surface Generation from Digital Surface Models</a>
+    </strong>
+    </papertitle>
+    <br>
+    <strong>Oussema Dhaouadi</strong>,
+    <a href="https://cvg.cit.tum.de/members/mejo" target="_blank">Johannes Meier</a>,
+    <a href="https://jacqueskaiser.com/" target="_blank">Jacques Kaiser</a>,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+    <br>
+    <em><strong>WACV</strong> 2026</em>
+    <br>
+    <a href="https://deepscenario.github.io/GrounDiff/" target="_blank">Project Page</a> | 
+    <a href="https://arxiv.org/pdf/2511.10391" target="_blank">Paper</a>
+
+<br>
+We introduce GrounDiff, a diffusion-based method that generates DTMs from DSMs by iteratively removing non-ground structures, achieving up to 93% lower error than prior learning-based approaches, and present PrioStitch and GrounDiff+ for scalable high-resolution terrain generation and smooth road reconstruction with up to 81% lower distance error.
+</td>
+</table>
 
 
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
