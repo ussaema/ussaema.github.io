@@ -84,10 +84,11 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 </div>
 
 ## News
-<div id="news-container" style="overflow-y: auto; padding-right: 10px;">
+<div id="news-container" style="padding-right: 10px;">
   <ul id="news-list">
     <li><em>2026.05</em>: Started a research visit at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> in the <a href="https://cv4dt.github.io" target="_blank">CV4DT Group</a> led by <a href="https://olafwysocki.github.io" target="_blank">Dr. Olaf Wysocki</a>.</li>
     <li><em>2026.01–2026.04</em>: Research visit at <a href="https://cvg.ethz.ch" target="_blank">ETH Zürich</a> in the <a href="https://cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> led by <a href="https://people.inf.ethz.ch/pomarc/" target="_blank">Prof. Marc Pollefeys</a>.</li>
+    <li><em>2025.12</em>: Started supervising a research project at <a href="https://www.tum-ai.com" target="_blank">TUM.ai</a> in collaboration with the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.</li>
     <li><em>2025.11</em>: completed my role as a computer vision scientist at <a href="https://deepscenario.com/" target="_blank">DeepScenario</a>.</li>
     <li><em>2025.11</em>: <a href="https://deepscenario.github.io/GrounDiff/" target="_blank">GrounDiff</a> accepted at <b>WACV 2026</b>.</li>
     <li><em>2025.09</em>: <a href="https://jchao-xie.github.io/CoProU/" target="_blank">CoProU-VO</a> received <b>best paper award</b> at <b>GCPR 2025</b>.</li>
@@ -108,7 +109,35 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
     <li><em>2017.03</em>: Began role as Hardware Developer at <b>Fujitsu</b>.</li>
     <li><em>2015.10</em>: Started B.Sc. in <b>Electrical Engineering and Information Technology</b> at <b>TUM</b>.</li>
   </ul>
+  <div style="text-align: center; margin-top: 6px;">
+    <button id="news-toggle-btn" onclick="toggleNews()" style="background: none; border: 1px solid currentColor; border-radius: 4px; padding: 4px 14px; cursor: pointer; font-size: 0.85em; opacity: 0.7;">Show more</button>
+  </div>
 </div>
+
+<script>
+(function() {
+  var VISIBLE = 5;
+  function toggleNews() {
+    var list = document.getElementById('news-list');
+    var btn = document.getElementById('news-toggle-btn');
+    var items = list.querySelectorAll('li');
+    var expanded = btn.getAttribute('data-expanded') === 'true';
+    items.forEach(function(item, i) {
+      if (i >= VISIBLE) item.style.display = expanded ? 'none' : '';
+    });
+    btn.setAttribute('data-expanded', expanded ? 'false' : 'true');
+    btn.textContent = expanded ? 'Show more' : 'Show less';
+  }
+  window.toggleNews = toggleNews;
+  document.addEventListener('DOMContentLoaded', function() {
+    var list = document.getElementById('news-list');
+    var items = list.querySelectorAll('li');
+    items.forEach(function(item, i) {
+      if (i >= VISIBLE) item.style.display = 'none';
+    });
+  });
+})();
+</script>
 
 
 ## Publications
