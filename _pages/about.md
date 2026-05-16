@@ -37,6 +37,10 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
     <img src="./images/logos/eth.png" >
 </a>
 
+<a href="https://www.cam.ac.uk/" target="_blank" style="text-decoration: none;">
+    <img src="./images/logos/cambridge.png" >
+</a>
+
 <a href="https://deepscenario.com/" target="_blank" style="text-decoration: none;">
     <img src="./images/logos/deepscenario.png" >
 </a>
