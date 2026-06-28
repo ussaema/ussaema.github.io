@@ -86,7 +86,8 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 ## News
 <div id="news-container" style="padding-right: 10px;">
   <ul id="news-list">
-    <li><em>2026.05</em>: Started a research visit at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> in the <a href="https://cv4dt.github.io" target="_blank">CV4DT Group</a> led by <a href="https://olafwysocki.github.io" target="_blank">Dr. Olaf Wysocki</a>.</li>
+    <li><em>2026.06</em>: <a href="https://orthotrack.ethz.ch" target="_blank">OrthoTrack</a> accepted at <b>ECCV 2026</b>.</li>
+    <li><em>2026.05</em>: Research visit at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> in the <a href="https://cv4dt.github.io" target="_blank">CV4DT Group</a> led by <a href="https://olafwysocki.github.io" target="_blank">Dr. Olaf Wysocki</a>.</li>
     <li><em>2026.01–2026.04</em>: Research visit at <a href="https://cvg.ethz.ch" target="_blank">ETH Zürich</a> in the <a href="https://cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> led by <a href="https://people.inf.ethz.ch/pomarc/" target="_blank">Prof. Marc Pollefeys</a>.</li>
     <li><em>2025.12</em>: Started supervising a research project at <a href="https://www.tum-ai.com" target="_blank">TUM.ai</a> in collaboration with the <a href="https://cv4dt.github.io" target="_blank">CV4DT Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.</li>
     <li><em>2025.11</em>: completed my role as a computer vision scientist at <a href="https://deepscenario.com/" target="_blank">DeepScenario</a>.</li>

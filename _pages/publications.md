@@ -1,6 +1,37 @@
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
+    <img src="/images/publications/orthotrack.png" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      <a href="https://orthotrack.ethz.ch" target="_blank">OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation via Orthophoto-Anchored Tracking</a>
+    </strong>
+    </papertitle>
+    <br>
+    <strong>Oussema Dhaouadi</strong>,
+    <a href="https://zuriabauer.com/" target="_blank">Zuria Bauer</a>,
+    <a href="https://www.linkedin.com/in/johannes-meier-52a159b4/" target="_blank">Johannes Meier</a>,
+    <a href="https://olafwysocki.github.io/" target="_blank">Olaf Wysocki</a>,
+    <a href="https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys" target="_blank">Marc Pollefeys</a>,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+    <br>
+    <em><strong>ECCV</strong> 2026</em>
+    <br>
+    <a href="https://orthotrack.ethz.ch" target="_blank">Project Page</a> | 
+    <a href="http://arxiv.org/pdf/2606.25245" target="_blank">Paper</a> |
+    <a href="https://cvg.cit.tum.de/webshare/g/papers/Dhaouadi/MovingDrone/explorer.html" target="_blank">Data</a> |
+    <a href="https://github.com/cvg/orthotrack" target="_blank">Github Repo</a>
+
+<br>
+We present OrthoTrack, a training-free system that estimates continuous 6-DoF UAV trajectories using only publicly available orthophotos and surface models as a map prior, and introduce the MovingDrone Dataset, a large-scale benchmark pairing photorealistic UAV sequences with dense 6-DoF ground truth and co-registered multi-modal geodata.
+</td>
+</table>
+
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <td width="40%">
+    <div class="one">
     <img src="/images/publications/groundiff.png" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
