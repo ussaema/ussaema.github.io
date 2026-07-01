@@ -140,7 +140,7 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
     <br>
     <a href="https://jchao-xie.github.io/CoProU/#gcpr" target="_blank">Project Page</a> | 
     <a href="https://arxiv.org/pdf/2508.00568" target="_blank">Paper</a> |
-    <a href="https://github.com/Jchao-Xie/CoProU" target="_blank">Github Repo</a> |
+    <a href="https://github.com/Jchao-Xie/CoProU/tree/gcpr-2025" target="_blank">Github Repo</a> |
     <a href="https://deepscenario.github.io/FlexRoad/static/Poster_FlexRoad.pdf" target="_blank">Poster</a>
 
 <br>
