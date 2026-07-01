@@ -125,7 +125,7 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
   <td valign="top" width="75%">
     <papertitle>
     <strong>
-      <a href="https://jchao-xie.github.io/CoProU/" target="_blank">CoProU-VO: Combining Projected Uncertainty for End-to-End Unsupervised Monocular Visual Odometry</a>
+      <a href="https://jchao-xie.github.io/CoProU/#gcpr" target="_blank">CoProU-VO: Combining Projected Uncertainty for End-to-End Unsupervised Monocular Visual Odometry</a>
     </strong>
     </papertitle>
     <br>
@@ -136,9 +136,9 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
     <a href="https://jacqueskaiser.com/" target="_blank">Jacques Kaiser</a>,
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     <br>
-    <em><strong>IV</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral - Best Paper Award)</span>
+    <em><strong>GCPR</strong> 2025</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral - Best Paper Award)</span>
     <br>
-    <a href="https://jchao-xie.github.io/CoProU/" target="_blank">Project Page</a> | 
+    <a href="https://jchao-xie.github.io/CoProU/#gcpr" target="_blank">Project Page</a> | 
     <a href="https://arxiv.org/pdf/2508.00568" target="_blank">Paper</a> |
     <a href="https://github.com/Jchao-Xie/CoProU" target="_blank">Github Repo</a> |
     <a href="https://deepscenario.github.io/FlexRoad/static/Poster_FlexRoad.pdf" target="_blank">Poster</a>
