@@ -21,8 +21,10 @@
     <em><strong>IJCV</strong> 2026</em>
     <br>
     <a href="https://jchao-xie.github.io/CoProU/#ijcv" target="_blank">Project Page</a> | 
-    <a href="https://link.springer.com/article/10.1007/s11263-026-02915-y" target="_blank">Paper</a>
+    <a href="https://link.springer.com/article/10.1007/s11263-026-02915-y" target="_blank">Paper</a> |
+    <a href="https://github.com/Jchao-Xie/CoProU/tree/main" target="_blank">Github Repo</a>
 <br>
+We present CoProU, a principled probabilistic formulation that propagates and fuses uncertainties across temporal frames to effectively identify dynamic regions and temporal inconsistencies, demonstrating its versatility through a two-frame framework (CoProU-VO-2F) and a multi-frame extension (CoProU-VO-MF) with a unified transformer architecture for self-supervised visual odometry.
 </td>
 </table>
 
