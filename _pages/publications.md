@@ -1,6 +1,34 @@
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
+    <img src="/images/publications/copro-ijcv.png" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      <a href="https://jchao-xie.github.io/CoProU/#ijcv" target="_blank">Combining Projected Uncertainty for Self-Supervised Visual Odometry: From Two-Frame to Multi-Frame</a>
+    </strong>
+    </papertitle>
+    <br>
+    Jingchao Xie*,
+    <strong>Oussema Dhaouadi</strong>*,
+    Weirong Chen,
+    Johannes Meier,
+    Zuria Bauer,
+    Marc Pollefeys,
+    Daniel Cremers
+    <br>
+    <em><strong>IJCV</strong> 2026</em>
+    <br>
+    <a href="https://jchao-xie.github.io/CoProU/#ijcv" target="_blank">Project Page</a> | 
+    <a href="https://link.springer.com/article/10.1007/s11263-026-02915-y" target="_blank">Paper</a>
+<br>
+</td>
+</table>
+
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <td width="40%">
+    <div class="one">
     <img src="/images/publications/orthotrack.png" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
