@@ -54,14 +54,13 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 </a>
 
 
-<a href="https://mcml.ai/" target="_blank" style="text-decoration: none;">
-    <img src="./images/logos/mcml.png" >
-</a>
-
 </div>
 
 <div class="institution-list">
 
+<a href="https://mcml.ai/" target="_blank" style="text-decoration: none;">
+    <img src="./images/logos/mcml.png" >
+</a>
 <a href="https://knowlix.ai/" target="_blank" style="text-decoration: none;">
     <img src="./images/logos/knowlix.png" >
 </a>
