@@ -89,7 +89,7 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 ## News
 <div id="news-container" style="padding-right: 10px;">
   <ul id="news-list">
-    <li><em>2026.07</em>: Started a new position as <b>AI Applied Scientist - PhD Intern</b> at <a href="https://www.zillow.com/" target="_blank">Zillow Group</a>.</li>
+    <li><em>2026.07</em>: Started a new position as AI Applied Scientist - PhD Intern at <a href="https://www.zillow.com/" target="_blank">Zillow Group</a>.</li>
     <li><em>2026.06</em>: <a href="https://jchao-xie.github.io/CoProU/#ijcv" target="_blank">CoProU-VO</a> (from two-frame to multi-frame) accepted at <b>IJCV 2026</b>.</li>
     <li><em>2026.06</em>: <a href="https://orthotrack.ethz.ch" target="_blank">OrthoTrack</a> accepted at <b>ECCV 2026</b>.</li>
     <li><em>2026.05</em>: Research visit at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> in the <a href="https://cv4dt.github.io" target="_blank">CV4DT Group</a> led by <a href="https://olafwysocki.github.io" target="_blank">Dr. Olaf Wysocki</a>.</li>
