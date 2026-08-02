@@ -34,7 +34,7 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 </a>
 
 <a href="https://www.zillow.com/" target="_blank" style="text-decoration: none;">
-    <img src="./images/logos/zillow.png" style="height: 25px !important; margin: 7.5px 0;">
+    <img src="./images/logos/zillow.png" style="height: 32px !important; margin: 4px 0;">
 </a>
 
 <a href="https://cvg.ethz.ch" target="_blank" style="text-decoration: none;">
