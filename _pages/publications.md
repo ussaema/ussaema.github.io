@@ -10,11 +10,11 @@
     </strong>
     </papertitle>
     <br>
-    <a href="https://orcid.org/0000-0002-8511-7149" target="_blank">Mohamed Kotb*</a>,
+    <a href="https://uk.linkedin.com/in/mohamed-kotb-97720a88" target="_blank">Mohamed Kotb*</a>,
     <a href="https://cvg.cit.tum.de/members/mejo" target="_blank">Johannes Meier*</a>,
-    <a href="https://orcid.org/0000-0002-8616-1627" target="_blank">Christoph Reich</a>,
+    <a href="https://christophreich1996.github.io/" target="_blank">Christoph Reich</a>,
     <strong>Oussema Dhaouadi</strong>,
-    <a href="https://orcid.org/0009-0001-2913-7938" target="_blank">Luis Denninger</a>,
+    <a href="https://ldenninger.github.io/" target="_blank">Luis Denninger</a>,
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
     <br>
     <em><strong>ECCV</strong> 2026 DriveX Workshop</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral)</span>
