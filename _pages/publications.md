@@ -62,7 +62,7 @@ We present MatchCityLoc, a zero-shot UAV localization framework that matches fou
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/magnet3d.png" width="100%"> </div>
+    <img src="/images/publications/magnet3d-cover.png" alt="MAGneT-3D: temporal monocular 3D vehicle detection" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -120,7 +120,7 @@ We present CoProU, a principled probabilistic formulation that propagates and fu
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/semcityloc.png" width="100%"> </div>
+    <img src="/images/publications/semcityloc-cover.png" alt="SemCityLoc: UAV image semantics aligned with roof and facade surfaces in a 3D city model" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -337,7 +337,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/mono_ct.png" width="100%"> </div>
+    <img src="/images/publications/mono_ct-cover.png" alt="MonoCT: monocular 3D vehicle detection across driving environments" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -365,7 +365,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/trafficloc.png" width="100%"> </div>
+    <img src="/images/publications/trafficloc-cover.png" alt="TrafficLoc: traffic-camera image registration to a 3D point cloud" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -395,7 +395,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/cdrone.png" width="100%"> </div>
+    <img src="/images/publications/cdrone-cover.png" alt="CARLA Drone: car, fixed traffic-camera, and drone perspectives with 3D detections" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -427,7 +427,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/capspose.png" width="100%"> </div>
+    <img src="/images/publications/capspose-cover.png" alt="CapsPose: head and AR-glasses pose estimation for a driver" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
