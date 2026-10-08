@@ -1,3 +1,31 @@
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <td width="40%">
+    <div class="one">
+    <img src="/images/publications/magnet3d.png" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      <a href="https://mo-sameh.github.io/MAGneT-3D-Project-Page/" target="_blank">MAGneT-3D: Monocular and Domain-Generalizable Temporal 3D Detection</a>
+    </strong>
+    </papertitle>
+    <br>
+    <a href="https://orcid.org/0000-0002-8511-7149" target="_blank">Mohamed Kotb*</a>,
+    <a href="https://cvg.cit.tum.de/members/mejo" target="_blank">Johannes Meier*</a>,
+    <a href="https://orcid.org/0000-0002-8616-1627" target="_blank">Christoph Reich</a>,
+    <strong>Oussema Dhaouadi</strong>,
+    <a href="https://orcid.org/0009-0001-2913-7938" target="_blank">Luis Denninger</a>,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+    <br>
+    <em><strong>ECCV</strong> 2026 DriveX Workshop</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral)</span>
+    <br>
+    <a href="https://mo-sameh.github.io/MAGneT-3D-Project-Page/" target="_blank">Project Page</a> |
+    <a href="https://arxiv.org/pdf/2608.14282" target="_blank">Paper</a>
+<br>
+We introduce MAGneT-3D, the first domain-generalized monocular temporal 3D object detector, combining domain-robust dynamic anchor generation with temporal refinement and identity merging to improve average cross-dataset NDS from 12.1% to 18.6% while also increasing in-domain accuracy.
+</td>
+</table>
+
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
