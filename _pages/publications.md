@@ -10,7 +10,7 @@
     </strong>
     </papertitle>
     <br>
-    <a href="https://uk.linkedin.com/in/mohamed-kotb-97720a88" target="_blank">Mohamed Kotb*</a>,
+    <a href="https://de.linkedin.com/in/mo-sameh-kotb" target="_blank">Mohamed Kotb*</a>,
     <a href="https://cvg.cit.tum.de/members/mejo" target="_blank">Johannes Meier*</a>,
     <a href="https://christophreich1996.github.io/" target="_blank">Christoph Reich</a>,
     <strong>Oussema Dhaouadi</strong>,
