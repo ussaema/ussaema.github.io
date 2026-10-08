@@ -1,0 +1,19 @@
+{
+  "mode": "built-in imagegen edit",
+  "edits": [
+    {
+      "key": "gcpr",
+      "prompt": "Precise background-lightening edit of this publication cover. Preserve EXACTLY the foreground input image panels, their sizes, positions, count, photo contents and red uncertainty masks; keep their photographic contrast unchanged. Preserve title wording, color and placement. Preserve ALL the vivid depth-colored points on facade and road unchanged in color and strong saturation. ONLY brighten and soften the real-world environment OUTSIDE the input rectangles: buildings, trees, parked cars, uncolored road, and the solid facade underneath the colored points should become near-white, low-contrast, pale and gently blurred. Aim for a strong white atmospheric veil over background scenery, about 70% reduced visual contrast, so the dark detailed photographic input rectangles and colorful depth points clearly stand out. The point cloud should remain crisp against pale near-white architectural surfaces, NOT disappear with the background. Keep the very thin bottom dashboard strip and tiny steering-wheel edge, do not enlarge interior. No extra elements, no arrows, no labels. Preserve realistic photography INSIDE frames and overall 1536x1024 landscape composition.",
+      "referenced_image_paths": [
+        "/home/wiss/dhou/.codex/generated_images/01a11cca-83c0-7111-8e69-0529bd681a31/exec-76b60bad-21e8-47c3-9bc8-b2cd6d505e1f.png"
+      ]
+    },
+    {
+      "key": "ijcv",
+      "prompt": "Precise background-lightening edit of this publication cover. Preserve EXACTLY the foreground input image panels, their sizes, positions, count, photo contents and red uncertainty masks; keep their photographic contrast unchanged. Preserve title wording, color and placement. Preserve ALL the vivid depth-colored points on facade and road unchanged in color and strong saturation. ONLY brighten and soften the real-world environment OUTSIDE the input rectangles: buildings, trees, parked cars, uncolored road, and the solid facade underneath the colored points should become near-white, low-contrast, pale and gently blurred. Aim for a strong white atmospheric veil over background scenery, about 70% reduced visual contrast, so the dark detailed photographic input rectangles and colorful depth points clearly stand out. The point cloud should remain crisp against pale near-white architectural surfaces, NOT disappear with the background. Keep the very thin bottom dashboard strip and tiny steering-wheel edge, do not enlarge interior. No extra elements, no arrows, no labels. Preserve realistic photography INSIDE frames and overall 1536x1024 landscape composition.",
+      "referenced_image_paths": [
+        "/home/wiss/dhou/.codex/generated_images/01a11cca-83c0-7111-8e69-0529bd681a31/exec-0954a90c-a173-45c4-886f-df761c57d65f.png"
+      ]
+    }
+  ]
+}

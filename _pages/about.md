@@ -89,6 +89,7 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
 ## News
 <div id="news-container" style="padding-right: 10px;">
   <ul id="news-list">
+    <li><em>2026.10</em>: Two papers, <b>PlanarCityLoc</b> and <b>MatchCityLoc</b>, accepted at <b>WACV 2027</b>.</li>
     <li><em>2026.08</em>: <a href="https://mo-sameh.github.io/MAGneT-3D-Project-Page/" target="_blank">MAGneT-3D</a> accepted as an <b>oral presentation</b> at the <b>DriveX Workshop, ECCV 2026</b>.</li>
     <li><em>2026.07</em>: Started a new position as AI Applied Scientist - PhD Intern at <a href="https://www.zillow.com/" target="_blank">Zillow Group</a>.</li>
     <li><em>2026.06</em>: <a href="https://jchao-xie.github.io/CoProU/#ijcv" target="_blank">CoProU-VO</a> (from two-frame to multi-frame) accepted at <b>IJCV 2026</b>.</li>

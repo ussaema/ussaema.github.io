@@ -1,6 +1,67 @@
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
+    <img src="/images/publications/planarcityloc-selected.png" alt="PlanarCityLoc: drone matching roof and facade planes" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes
+    </strong>
+    </papertitle>
+    <br>
+    <strong>Oussema Dhaouadi</strong>,
+    Shao Jie Hu-Chen,
+    Jakob Gollreiter,
+    Samir Jusufi,
+    Nikolas Rieger,
+    Caroline Wendlandt,
+    Christian Wender,
+    <a href="https://www.linkedin.com/in/jingfeng-mao-125928260/" target="_blank">Jingfeng Mao</a>,
+    <a href="https://guangmingw.github.io" target="_blank">Guangming Wang</a>,
+    <a href="https://zuriabauer.com/" target="_blank">Zuria Bauer</a>,
+    <a href="https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys" target="_blank">Marc Pollefeys</a>,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>,
+    <a href="https://olafwysocki.github.io/" target="_blank">Olaf Wysocki</a>
+    <br>
+    <em><strong>WACV</strong> 2027</em>
+    <br>
+    <em>Project page coming soon.</em>
+<br>
+We present PlanarCityLoc, a framework that resolves silhouette ambiguity in aerial localization against textureless LoD city models by matching facade and roof planes between query images and the 3D map, enabling analytical PnP refinement and significantly improving accuracy on UAVD4L-LoDv2 and Swiss-EPFL-v2.
+</td>
+</table>
+
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <td width="40%">
+    <div class="one">
+    <img src="/images/publications/matchcityloc-selected.png" alt="MatchCityLoc: matching image and city-model surface normals" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching
+    </strong>
+    </papertitle>
+    <br>
+    <strong>Oussema Dhaouadi</strong>,
+    <a href="https://zuriabauer.com/" target="_blank">Zuria Bauer</a>,
+    <a href="https://www.linkedin.com/in/johannes-meier-52a159b4/" target="_blank">Johannes Meier</a>,
+    <a href="https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys" target="_blank">Marc Pollefeys</a>,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>,
+    <a href="https://olafwysocki.github.io/" target="_blank">Olaf Wysocki</a>
+    <br>
+    <em><strong>WACV</strong> 2027</em>
+    <br>
+    <em>Project page coming soon.</em>
+<br>
+We present MatchCityLoc, a zero-shot UAV localization framework that matches foundation-model surface normals from the query image against LoD-rendered normals to establish explicit 3D-to-2D correspondences and iteratively solve the pose with PnP, achieving state-of-the-art accuracy with very few renderings.
+</td>
+</table>
+
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <td width="40%">
+    <div class="one">
     <img src="/images/publications/magnet3d.png" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
@@ -29,7 +90,7 @@ We introduce MAGneT-3D, the first domain-generalized monocular temporal 3D objec
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/copro-ijcv.png" width="100%"> </div>
+    <img src="/images/publications/coprou-ijcv-final.png" alt="CoProU-VO-MF: in-car view with four temporal input frames, uncertainty regions, and depth-colored scene points" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -90,7 +151,7 @@ We propose SemCityLoc, a semantic-geometric alignment system that reframes aeria
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/orthotrack.png" width="100%"> </div>
+    <img src="/images/publications/orthotrack-selected.png" alt="OrthoTrack: drone trajectory with successive camera poses" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -121,7 +182,7 @@ We present OrthoTrack, a training-free system that estimates continuous 6-DoF UA
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/groundiff.png" width="100%"> </div>
+    <img src="/images/publications/groundiff-bright.png" alt="GrounDiff: removing buildings and vegetation to recover bare-earth terrain" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -149,7 +210,7 @@ We introduce GrounDiff, a diffusion-based method that generates DTMs from DSMs b
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/ortholoc.png" width="100%"> </div>
+    <img src="/images/publications/ortholoc-selected.png" alt="OrthoLoC: matching a UAV image to an orthophoto and lifting correspondences to 3D using a DSM" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -179,7 +240,7 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/coprou.png" width="100%"> </div>
+    <img src="/images/publications/coprou-gcpr-final.png" alt="CoProU-VO: in-car view with two temporal input frames, uncertainty regions, and depth-colored scene points" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -210,7 +271,7 @@ We propose CoProU-VO, an unsupervised visual odometry framework that propagates 
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/flexroad.gif" width="100%"> </div>
+    <img src="/images/publications/flexroad-bright.png" alt="FlexRoad: fitting a smooth curved road surface to noisy reconstruction points" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -239,7 +300,7 @@ We present FlexRoad, the first framework for smooth and accurate road surface re
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/dsc3d.png" width="100%"> </div>
+    <img src="/images/publications/dsc3d-brand.png" alt="DSC3D: drone-observed traffic participants with 3D bounding boxes and trajectories" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
