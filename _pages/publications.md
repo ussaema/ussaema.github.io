@@ -1,7 +1,7 @@
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/planarcityloc-selected-960.webp" alt="PlanarCityLoc: drone matching roof and facade planes" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
+    <img src="/images/publications/planarcityloc-brand-daylight-960.webp" alt="PlanarCityLoc: drone matching roof and facade planes" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -35,7 +35,7 @@ We present PlanarCityLoc, a framework that resolves silhouette ambiguity in aeri
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/matchcityloc-selected-960.webp" alt="MatchCityLoc: matching image and city-model surface normals" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
+    <img src="/images/publications/matchcityloc-brand-daylight-960.webp" alt="MatchCityLoc: matching image and city-model surface normals" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
