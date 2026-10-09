@@ -1,8 +1,0 @@
-{
-  "mode": "built-in image_gen",
-  "reference": "images/publications/orthotrack-selected.png",
-  "compositionReference": "original blue sky single-pass render",
-  "output": "images/publications/orthotrack-blue-final.png",
-  "webOutput": "images/publications/orthotrack-blue-final-1200.webp",
-  "prompt": "Use case: precise-object-edit for OrthoTrack publication cover. Image 1 is the high-detail BLUE-SKY target composition, image 2 is original logo reference. Preserve the clear natural blue sky, detailed normal-color Berlin Cathedral foreground, crisp natural architecture, silver drone, wide composition. Preserve/restore the OrthoTrack logo exact original colors and design from image 2: stylized camera-drone O, white 'rtho', blue-to-teal-to-green 'Track' with fine white outlines; no dark or black title letters. Edit the single smooth turquoise flight trajectory in image 1 to be visibly stronger: a little thicker with dark saturated teal/cyan core and subtle lighter edge, clearly legible against both sky and city; preserve its shape and its three cyan camera-pose frusta. Keep background city bright enough to recede while central Dom retains rich realistic colors and sharp detail. No false-color depth surface, no second cathedral, no labels, no title banner. Professional photographic academic cover, 3:2 landscape. Change only the logo fidelity and trajectory contrast, preserving the rest of image 1."
-}
