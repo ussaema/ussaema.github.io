@@ -1,0 +1,7 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "images/publications/orthotrack-blue-final.png",
+  "output": "images/publications/orthotrack-city-bright.png",
+  "webOutput": "images/publications/orthotrack-city-bright-1200.webp",
+  "prompt": "Use case: lighting-weather targeted edit. Image 1 is the current high-resolution OrthoTrack cover. Keep exact composition, detailed single Berlin Cathedral (Berliner Dom), central Dom dome/stone and immediate garden/river in their natural colors and normal exposure, crisp silver drone, original white and blue-green OrthoTrack logo, and the thick dark teal trajectory with cyan edge and three pose frusta perfectly unchanged. Change ONLY the CITY BACKGROUND OUTSIDE the central Dom region, especially the dense urban strip directly behind the trajectory: brighten it strongly toward a pale near-white sunlit haze, desaturate it and soften fine details so the dark teal trajectory has obvious contrast across its entire length. Use a soft gradual feather from colorful sharp Dom neighborhood to bright peripheral city. Preserve a natural attractive BLUE SKY at the top behind the logo, not white. Avoid hard masks, washed out Dom, dark city behind the path, additional structures, duplicated cathedral, any depth colors. Photographic quality, fine detail on cathedral and drone. This is selective local background brightening, not a full image exposure change."
+}
