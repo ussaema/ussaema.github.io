@@ -2,7 +2,7 @@
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/seqcapsgan-cover.png" alt="SeqCapsGAN: sentiment-conditioned image captioning with generative adversarial networks" width="100%" class="img"/>
+    <img src="/images/projects/seqcapsgan-cover-960.webp" alt="SeqCapsGAN: sentiment-conditioned image captioning with generative adversarial networks" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -30,7 +30,7 @@ We introduce SeqCapsGAN, a stylized image captioning framework that combines Gen
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/emg_gan-cover.png" alt="EMGCaps: forearm EMG signals and hand-gesture classification" width="100%" class="img"/>
+    <img src="/images/projects/emg_gan-cover-960.webp" alt="EMGCaps: forearm EMG signals and hand-gesture classification" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -57,7 +57,7 @@ We introduce EMG-Caps, a framework for hand gesture classification using Capsule
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/robot_arm_control-cover.png" alt="EMG Robot Control: muscle signals controlling a simulated robot arm" width="100%" class="img"/>
+    <img src="/images/projects/robot_arm_control-cover-960.webp" alt="EMG Robot Control: muscle signals controlling a simulated robot arm" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -84,7 +84,7 @@ We performed data acquisition and preprocessing, designed and evaluated classifi
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/robocup-cover.png" alt="RoboCup Planning: collision-free robot path planning on a soccer field" width="100%" class="img"/>
+    <img src="/images/projects/robocup-cover-960.webp" alt="RoboCup Planning: collision-free robot path planning on a soccer field" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -111,7 +111,7 @@ We implemented trajectory planning algorithms (RRT/RRT*) in C++, simulated and e
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/oar-cover.png" alt="Gesture-Controlled Robot: wrist-sensor control and obstacle avoidance" width="100%" class="img"/>
+    <img src="/images/projects/oar-cover-960.webp" alt="Gesture-Controlled Robot: wrist-sensor control and obstacle avoidance" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -137,7 +137,7 @@ We developed Hand Gesture Controlled Obstacle Avoiding Robot, implementing embed
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/box_office-cover.png" alt="Box Office Prediction: trailer and multimodal features for forecasting" width="100%" class="img"/>
+    <img src="/images/projects/box_office-cover-960.webp" alt="Box Office Prediction: trailer and multimodal features for forecasting" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -165,7 +165,7 @@ In this project, we presented a system for predicting opening weekend box office
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/capsgan-cover.png" alt="CapsGAN: capsule-network generative adversarial modeling" width="100%" class="img"/>
+    <img src="/images/projects/capsgan-cover-960.webp" alt="CapsGAN: capsule-network generative adversarial modeling" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">
@@ -192,7 +192,7 @@ This thesis introduces CapsGAN, a generative modeling framework that integrates 
   <tr>  
 <td width="40%">
     <div class="one">
-    <img src="/images/projects/ct-cover.png" alt="CT Reconstruction: learned filtering and reconstructed CT slices" width="100%" class="img"/>
+    <img src="/images/projects/ct-cover-960.webp" alt="CT Reconstruction: learned filtering and reconstructed CT slices" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto" class="img"/>
 </div>
   </td>
     <td valign="top" width="75%">

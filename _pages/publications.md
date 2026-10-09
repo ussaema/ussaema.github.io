@@ -1,7 +1,7 @@
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/planarcityloc-selected.png" alt="PlanarCityLoc: drone matching roof and facade planes" width="100%"> </div>
+    <img src="/images/publications/planarcityloc-selected-960.webp" alt="PlanarCityLoc: drone matching roof and facade planes" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -35,7 +35,7 @@ We present PlanarCityLoc, a framework that resolves silhouette ambiguity in aeri
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/matchcityloc-selected.png" alt="MatchCityLoc: matching image and city-model surface normals" width="100%"> </div>
+    <img src="/images/publications/matchcityloc-selected-960.webp" alt="MatchCityLoc: matching image and city-model surface normals" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -62,7 +62,7 @@ We present MatchCityLoc, a zero-shot UAV localization framework that matches fou
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/magnet3d-cover.png" alt="MAGneT-3D: temporal monocular 3D vehicle detection" width="100%"> </div>
+    <img src="/images/publications/magnet3d-cover-960.webp" alt="MAGneT-3D: temporal monocular 3D vehicle detection" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -90,7 +90,7 @@ We introduce MAGneT-3D, the first domain-generalized monocular temporal 3D objec
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/coprou-ijcv-final.png" alt="CoProU-VO-MF: in-car view with four temporal input frames, uncertainty regions, and depth-colored scene points" width="100%"> </div>
+    <img src="/images/publications/coprou-ijcv-final-960.webp" alt="CoProU-VO-MF: in-car view with four temporal input frames, uncertainty regions, and depth-colored scene points" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -120,7 +120,7 @@ We present CoProU, a principled probabilistic formulation that propagates and fu
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/semcityloc-cover.png" alt="SemCityLoc: UAV image semantics aligned with roof and facade surfaces in a 3D city model" width="100%"> </div>
+    <img src="/images/publications/semcityloc-cover-960.webp" alt="SemCityLoc: UAV image semantics aligned with roof and facade surfaces in a 3D city model" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -151,7 +151,7 @@ We propose SemCityLoc, a semantic-geometric alignment system that reframes aeria
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/orthotrack-selected.png" alt="OrthoTrack: drone trajectory with successive camera poses" width="100%"> </div>
+    <img src="/images/publications/orthotrack-selected-960.webp" alt="OrthoTrack: drone trajectory with successive camera poses" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -182,7 +182,7 @@ We present OrthoTrack, a training-free system that estimates continuous 6-DoF UA
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/groundiff-bright.png" alt="GrounDiff: removing buildings and vegetation to recover bare-earth terrain" width="100%"> </div>
+    <img src="/images/publications/groundiff-logo-960.webp" alt="GrounDiff: removing buildings and vegetation to recover bare-earth terrain" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -210,7 +210,7 @@ We introduce GrounDiff, a diffusion-based method that generates DTMs from DSMs b
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/ortholoc-selected.png" alt="OrthoLoC: matching a UAV image to an orthophoto and lifting correspondences to 3D using a DSM" width="100%"> </div>
+    <img src="/images/publications/ortholoc-selected-960.webp" alt="OrthoLoC: matching a UAV image to an orthophoto and lifting correspondences to 3D using a DSM" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -240,7 +240,7 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/coprou-gcpr-final.png" alt="CoProU-VO: in-car view with two temporal input frames, uncertainty regions, and depth-colored scene points" width="100%"> </div>
+    <img src="/images/publications/coprou-gcpr-final-960.webp" alt="CoProU-VO: in-car view with two temporal input frames, uncertainty regions, and depth-colored scene points" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -271,7 +271,7 @@ We propose CoProU-VO, an unsupervised visual odometry framework that propagates 
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/flexroad-bright.png" alt="FlexRoad: fitting a smooth curved road surface to noisy reconstruction points" width="100%"> </div>
+    <img src="/images/publications/flexroad-bright-960.webp" alt="FlexRoad: fitting a smooth curved road surface to noisy reconstruction points" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -300,7 +300,7 @@ We present FlexRoad, the first framework for smooth and accurate road surface re
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/dsc3d-brand.png" alt="DSC3D: drone-observed traffic participants with 3D bounding boxes and trajectories" width="100%"> </div>
+    <img src="/images/publications/dsc3d-brand-960.webp" alt="DSC3D: drone-observed traffic participants with 3D bounding boxes and trajectories" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -337,7 +337,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/mono_ct-cover.png" alt="MonoCT: monocular 3D vehicle detection across driving environments" width="100%"> </div>
+    <img src="/images/publications/mono_ct-cover-960.webp" alt="MonoCT: monocular 3D vehicle detection across driving environments" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -365,7 +365,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/trafficloc-cover.png" alt="TrafficLoc: traffic-camera image registration to a 3D point cloud" width="100%"> </div>
+    <img src="/images/publications/trafficloc-cover-960.webp" alt="TrafficLoc: traffic-camera image registration to a 3D point cloud" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -395,7 +395,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/cdrone-cover.png" alt="CARLA Drone: car, fixed traffic-camera, and drone perspectives with 3D detections" width="100%"> </div>
+    <img src="/images/publications/cdrone-cover-960.webp" alt="CARLA Drone: car, fixed traffic-camera, and drone perspectives with 3D detections" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
@@ -427,7 +427,7 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/capspose-cover.png" alt="CapsPose: head and AR-glasses pose estimation for a driver" width="100%"> </div>
+    <img src="/images/publications/capspose-cover-960.webp" alt="CapsPose: head and AR-glasses pose estimation for a driver" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
