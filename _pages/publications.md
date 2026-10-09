@@ -151,7 +151,7 @@ We propose SemCityLoc, a semantic-geometric alignment system that reframes aeria
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
-    <img src="/images/publications/orthotrack-selected-960.webp" alt="OrthoTrack: drone trajectory with successive camera poses" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
+    <img src="/images/publications/orthotrack-blue-final-1200.webp" alt="OrthoTrack: drone flight trajectory above Berlin Cathedral in natural colors" width="1200" height="800" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
   </td>
   <td valign="top" width="75%">
     <papertitle>
