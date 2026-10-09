@@ -179,6 +179,39 @@ We present OrthoTrack, a training-free system that estimates continuous 6-DoF UA
 </td>
 </table>
 
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <td width="40%">
+    <div class="one">
+    <img src="/images/publications/lead-m3d-cover-960.webp" alt="LeAD-M3D: monocular 3D vehicle detections on a city road" width="960" height="640" loading="lazy" decoding="async" style="width:100%;height:auto"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      <a href="https://deepscenario.github.io/LeAD-M3D/" target="_blank">LeAD-M3D: Leveraging Asymmetric Distillation for Real-Time Monocular 3D Detection</a>
+    </strong>
+    </papertitle>
+    <br>
+    <a href="https://www.linkedin.com/in/johannes-meier-52a159b4/" target="_blank">Johannes Meier</a>,
+    Jonathan Michel,
+    <strong>Oussema Dhaouadi</strong>,
+    <a href="https://royyang0714.github.io/" target="_blank">Yung-Hsu Yang</a>,
+    <a href="https://christophreich1996.github.io/" target="_blank">Christoph Reich</a>,
+    <a href="https://zuriabauer.com/" target="_blank">Zuria Bauer</a>,
+    Stefan Roth,
+    <a href="https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys" target="_blank">Marc Pollefeys</a>,
+    Jacques Kaiser,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
+    <br>
+    <em><strong>ECCV</strong> 2026</em>
+    <br>
+    <a href="https://deepscenario.github.io/LeAD-M3D/" target="_blank">Project Page</a> |
+    <a href="https://arxiv.org/abs/2512.05663" target="_blank">Paper</a> |
+    <a href="https://github.com/deepscenario/LeAD-M3D-Inference/" target="_blank">Github Repo</a>
+<br>
+We present LeAD-M3D, a real-time monocular 3D object detector that combines asymmetric distillation, 3D-aware matching, and confidence-gated inference to improve accuracy and efficiency without LiDAR, stereo, or geometric priors.
+</td>
+</table>
+
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
