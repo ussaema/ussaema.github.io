@@ -98,6 +98,7 @@ Before starting my PhD, I was a Machine Learning Engineer at <a href="https://kn
     <li><em>2026.01–2026.04</em>: Research visit at <a href="https://cvg.ethz.ch" target="_blank">ETH Zürich</a> in the <a href="https://cvg.ethz.ch/" target="_blank">Computer Vision and Geometry Group</a> led by <a href="https://inf.ethz.ch/de/personen/person-detail.pollefeys.html" target="_blank">Prof. Marc Pollefeys</a>.</li>
     <li><em>2025.12</em>: Supervised a research project at <a href="https://www.tum-ai.com" target="_blank">TUM.ai</a> in collaboration with the <a href="https://cv4dt.github.io" target="_blank">CV4DT Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.</li>
     <li><em>2025.11</em>: completed my role as a computer vision scientist at <a href="https://deepscenario.com/" target="_blank">DeepScenario</a>.</li>
+    <li><em>2025.11</em>: <a href="https://arxiv.org/abs/2511.19301" target="_blank">IDEAL-M3D</a> accepted at <b>WACV 2026</b>.</li>
     <li><em>2025.11</em>: <a href="https://deepscenario.github.io/GrounDiff/" target="_blank">GrounDiff</a> accepted at <b>WACV 2026</b>.</li>
     <li><em>2025.09</em>: <a href="https://jchao-xie.github.io/CoProU/#gcpr" target="_blank">CoProU-VO</a> received <b>best paper award</b> at <b>GCPR 2025</b>.</li>
     <li><em>2025.09</em>: <a href="https://deepscenario.github.io/OrthoLoC/" target="_blank">OrthoLoC</a> accepted as an <b>oral presentation</b> at <b>NeurIPS 2025</b>.</li>
