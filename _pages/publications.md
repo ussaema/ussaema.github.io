@@ -371,7 +371,6 @@ We present FlexRoad, the first framework for smooth and accurate road surface re
     <br>
     <strong>Oussema Dhaouadi*</strong>,
     <a href="https://cvg.cit.tum.de/members/mejo" target="_blank">Johannes Meier*</a>, 
-    <a href="https://www.linkedin.com/in/louis-inchingolo-5a8ba3179/" target="_blank">Louis Inchingolo*</a>, 
     <a href="https://www.linkedin.com/in/luca-wahl/" target="_blank">Luca Wahl</a>, 
     <a href="https://jacqueskaiser.com/" target="_blank">Jacques Kaiser</a>,
     <a href="https://www.linkedin.com/in/luca-scalerandi/" target="_blank">Luca Scalerandi</a>,
