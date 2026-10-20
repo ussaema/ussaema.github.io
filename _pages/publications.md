@@ -6,7 +6,7 @@
   <td valign="top" width="75%">
     <papertitle>
     <strong>
-      PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes
+      <a href="https://tum-vision.github.io/PlanarCityLoc/" target="_blank">PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes</a>
     </strong>
     </papertitle>
     <br>
@@ -26,7 +26,12 @@
     <br>
     <em><strong>WACV</strong> 2027</em>
     <br>
-    <em>Project page coming soon.</em>
+    <a href="https://tum-vision.github.io/PlanarCityLoc/" target="_blank">Project Page</a> |
+    <a href="https://arxiv.org/abs/2610.26729" target="_blank">Paper</a> |
+    <a href="https://youtu.be/goPJI491SRA" target="_blank">Video</a> |
+    <a href="https://github.com/tum-vision/PlanarCityLoc" target="_blank">Github Repo</a> |
+    <a href="https://tum-vision.github.io/PlanarCityLoc/assets/PlanarCityLoc-WACV2027-poster.pdf?v=logos-2" target="_blank">Poster</a> |
+    <a href="https://github.com/tum-vision/PlanarCityLoc/blob/main/data/README.md" target="_blank">Datasets</a>
 <br>
 We present PlanarCityLoc, a framework that resolves silhouette ambiguity in aerial localization against textureless LoD city models by matching facade and roof planes between query images and the 3D map, enabling analytical PnP refinement and significantly improving accuracy on UAVD4L-LoDv2 and Swiss-EPFL-v2.
 </td>
