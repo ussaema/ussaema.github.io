@@ -86,7 +86,8 @@ We present MatchCityLoc, a zero-shot UAV localization framework that matches fou
     <em><strong>ECCV</strong> 2026 DriveX Workshop</em> <span style="color:rgb(255, 50, 0);font-weight: bold;">(Oral)</span>
     <br>
     <a href="https://mo-sameh.github.io/MAGneT-3D-Project-Page/" target="_blank">Project Page</a> |
-    <a href="https://arxiv.org/pdf/2608.14282" target="_blank">Paper</a>
+    <a href="https://arxiv.org/pdf/2608.14282" target="_blank">Paper</a> |
+    <a href="https://github.com/mo-sameh/MAGneT-3D" target="_blank">Github Repo</a>
 <br>
 We introduce MAGneT-3D, the first domain-generalized monocular temporal 3D object detector, combining domain-robust dynamic anchor generation with temporal refinement and identity merging to improve average cross-dataset NDS from 12.1% to 18.6% while also increasing in-domain accuracy.
 </td>
@@ -147,7 +148,9 @@ We present CoProU, a principled probabilistic formulation that propagates and fu
     <em><strong>ECCV</strong> 2026</em>
     <br>
     <a href="https://albertchen98.github.io/SemCityLoc" target="_blank">Project Page</a> | 
-    <a href="https://arxiv.org/abs/2606.27444" target="_blank">Paper</a>
+    <a href="https://arxiv.org/abs/2606.27444" target="_blank">Paper</a> |
+    <a href="https://huggingface.co/datasets/DevinEaston/SemCityLockeD" target="_blank">Data</a> |
+    <a href="https://albertchen98.github.io/SemCityLoc/static/videos/SemCityLoc_in2min.mp4" target="_blank">Video</a>
 <br>
 We propose SemCityLoc, a semantic-geometric alignment system that reframes aerial pose estimation as structured surface registration between foundation-model-derived visual priors and standardized LoD-compliant 3D city models, reducing mean positional error from 9.89m to 2.62m in challenging urban canyons.
 </td>
@@ -177,7 +180,10 @@ We propose SemCityLoc, a semantic-geometric alignment system that reframes aeria
     <a href="https://orthotrack.ethz.ch" target="_blank">Project Page</a> | 
     <a href="http://arxiv.org/pdf/2606.25245" target="_blank">Paper</a> |
     <a href="https://cvg.cit.tum.de/webshare/g/papers/Dhaouadi/MovingDrone/explorer.html" target="_blank">Data</a> |
-    <a href="https://github.com/cvg/orthotrack" target="_blank">Github Repo</a>
+    <a href="https://github.com/cvg/orthotrack" target="_blank">Github Repo</a> |
+    <a href="https://orthotrack.ethz.ch/assets/Poster.pdf" target="_blank">Poster</a> |
+    <a href="https://www.youtube.com/watch?v=Kkgxm4FZk88" target="_blank">Video</a> |
+    <a href="https://huggingface.co/spaces/ussaema/orthotrack-demo" target="_blank">Demo</a>
 
 <br>
 We present OrthoTrack, a training-free system that estimates continuous 6-DoF UAV trajectories using only publicly available orthophotos and surface models as a map prior, and introduce the MovingDrone Dataset, a large-scale benchmark pairing photorealistic UAV sequences with dense 6-DoF ground truth and co-registered multi-modal geodata.
@@ -211,7 +217,8 @@ We present OrthoTrack, a training-free system that estimates continuous 6-DoF UA
     <br>
     <a href="https://deepscenario.github.io/LeAD-M3D/" target="_blank">Project Page</a> |
     <a href="https://arxiv.org/abs/2512.05663" target="_blank">Paper</a> |
-    <a href="https://github.com/deepscenario/LeAD-M3D-Inference/" target="_blank">Github Repo</a>
+    <a href="https://github.com/deepscenario/LeAD-M3D-Inference/" target="_blank">Github Repo</a> |
+    <a href="https://cvg.cit.tum.de/webshare/g/papers/LeAD-M3D/video.mp4" target="_blank">Video</a>
 <br>
 We present LeAD-M3D, a real-time monocular 3D object detector that combines asymmetric distillation, 3D-aware matching, and confidence-gated inference to improve accuracy and efficiency without LiDAR, stereo, or geometric priors.
 </td>
@@ -264,7 +271,8 @@ We introduce IDEAL-M3D, an instance-level active learning approach for monocular
     <em><strong>WACV</strong> 2026</em>
     <br>
     <a href="https://deepscenario.github.io/GrounDiff/" target="_blank">Project Page</a> | 
-    <a href="https://arxiv.org/pdf/2511.10391" target="_blank">Paper</a>
+    <a href="https://arxiv.org/pdf/2511.10391" target="_blank">Paper</a> |
+    <a href="https://deepscenario.github.io/GrounDiff/static/Poster_GrounDiff.pdf" target="_blank">Poster</a>
 
 <br>
 We introduce GrounDiff, a diffusion-based method that generates DTMs from DSMs by iteratively removing non-ground structures, achieving up to 93% lower error than prior learning-based approaches, and present PrioStitch and GrounDiff+ for scalable high-resolution terrain generation and smooth road reconstruction with up to 81% lower distance error.
@@ -295,7 +303,9 @@ We introduce GrounDiff, a diffusion-based method that generates DTMs from DSMs b
     <a href="https://deepscenario.github.io/OrthoLoC/" target="_blank">Project Page</a> | 
     <a href="https://arxiv.org/pdf/2509.18350" target="_blank">Paper</a> |
     <a href="https://cvg.cit.tum.de/webshare/g/papers/Dhaouadi/OrthoLoC/" target="_blank">Data</a> |
-    <a href="https://github.com/deepscenario/OrthoLoC/" target="_blank">Github Repo</a>
+    <a href="https://github.com/deepscenario/OrthoLoC/" target="_blank">Github Repo</a> |
+    <a href="https://deepscenario.github.io/OrthoLoC/static/Poster_OrthoLoC.pdf" target="_blank">Poster</a> |
+    <a href="https://deepscenario.github.io/OrthoLoC/static/Teaser_OrthoLoC.mp4" target="_blank">Video</a>
 
 <br>
 We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,425 images from Germany and the U.S., paired with orthophotos and digital surface models (DSMs) to enable benchmarking under domain shifts, and propose AdHoP, a refinement method that improves feature matching accuracy by up to 95% and reduces translation error by 63%, advancing lightweight high-precision aerial localization without GNSS or large 3D models.
@@ -326,7 +336,7 @@ We introduce OrthoLoC, the first large-scale UAV localization dataset with 16,42
     <a href="https://jchao-xie.github.io/CoProU/#gcpr" target="_blank">Project Page</a> | 
     <a href="https://arxiv.org/pdf/2508.00568" target="_blank">Paper</a> |
     <a href="https://github.com/Jchao-Xie/CoProU/tree/gcpr-2025" target="_blank">Github Repo</a> |
-    <a href="https://deepscenario.github.io/FlexRoad/static/Poster_FlexRoad.pdf" target="_blank">Poster</a>
+    <a href="https://jchao-xie.github.io/CoProU/static/Poster_CoProU.pdf" target="_blank">Poster</a>
 
 <br>
 We propose CoProU-VO, an unsupervised visual odometry framework that propagates and combines uncertainty across temporal frames to robustly filter dynamic objects, leveraging vision transformers to jointly learn depth, uncertainty, and poses, and achieving superior performance on KITTI and nuScenes, especially in challenging dynamic and highway scenarios.
@@ -448,7 +458,8 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
     <em><strong>ICCV</strong> 2025</em>
     <br>
     <a href="https://tum-luk.github.io/projects/trafficloc/" target="_blank">Project Page</a> | 
-    <a href="https://arxiv.org/pdf/2412.10308" target="_blank">Paper</a>
+    <a href="https://arxiv.org/pdf/2412.10308" target="_blank">Paper</a> |
+    <a href="https://github.com/TUM-Luk/TrafficLoc" target="_blank">Github Repo</a>
     <br>
     We tackle traffic camera localization in 3D maps by introducing TrafficLoc, a coarse-to-fine image-to-point cloud registration method with Geometry-guided Attention Loss, Inter-intra Contrastive Learning, and Dense Training Alignment, alongside the Carla Intersection dataset, achieving up to 86% improvement over prior methods and new state-of-the-art performance on KITTI and NuScenes for both in-vehicle and traffic cameras.
 </td>
@@ -480,7 +491,8 @@ We introduce DSC3D, a large-scale, occlusion-free 3D trajectory dataset captured
      <a href="https://deepscenario.github.io/CDrone/" target="_blank">Project Page</a> | 
      <a href="https://github.com/deepscenario/EvalMono3D" target="_blank">Github Repo</a> | 
     <a href="https://www.arxiv.org/pdf/2408.11958" target="_blank">Paper</a> | 
-    <a href="https://cvg.cit.tum.de/webshare/g/cdrone/data/" target="_blank">Data</a>
+    <a href="https://cvg.cit.tum.de/webshare/g/cdrone/data/" target="_blank">Data</a> |
+    <a href="https://cvg.cit.tum.de/webshare/g/cdrone/moving_cdrone_data/" target="_blank">Moving CDrone Data</a>
     <br>
     We introduce the CARLA Drone (CDrone) dataset to expand 3D detection benchmarks with diverse camera perspectives and propose GroundMix, a ground-based 3D-consistent augmentation pipeline, demonstrating that prior methods struggle across these views while our approach significantly improves detection accuracy across both synthetic and real-world datasets.
   </td>
