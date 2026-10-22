@@ -45,7 +45,7 @@ We present PlanarCityLoc, a framework that resolves silhouette ambiguity in aeri
   <td valign="top" width="75%">
     <papertitle>
     <strong>
-      MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching
+      <a href="https://tum-vision.github.io/MatchCityLoc/" target="_blank">MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching</a>
     </strong>
     </papertitle>
     <br>
@@ -58,7 +58,12 @@ We present PlanarCityLoc, a framework that resolves silhouette ambiguity in aeri
     <br>
     <em><strong>WACV</strong> 2027</em>
     <br>
-    <em>Project page coming soon.</em>
+    <a href="https://tum-vision.github.io/MatchCityLoc/" target="_blank">Project Page</a> |
+    <a href="https://arxiv.org/abs/2610.27110" target="_blank">Paper</a> |
+    <a href="https://github.com/tum-vision/MatchCityLoc" target="_blank">Github Repo</a> |
+    <a href="https://youtu.be/t8HD93sMhws" target="_blank">Video</a> |
+    <a href="https://tum-vision.github.io/MatchCityLoc/assets/MatchCityLoc_WACV2027_Poster.pdf" target="_blank">Poster</a> |
+    <a href="https://github.com/tum-vision/MatchCityLoc/blob/main/datasets/README.md" target="_blank">Datasets</a>
 <br>
 We present MatchCityLoc, a zero-shot UAV localization framework that matches foundation-model surface normals from the query image against LoD-rendered normals to establish explicit 3D-to-2D correspondences and iteratively solve the pose with PnP, achieving state-of-the-art accuracy with very few renderings.
 </td>
